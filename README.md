@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fadone
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me fawadwakeel0550@gmail.com
