@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @fadone
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me hisham.syed0@gmail.com, fawadwakeel0550@gmail.com
+👋 Hi, I’m Hisham Syed (GitHub: fadone)
 
-<!---
-fadone/fadone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I’m interested in Software Engineering, with a focus on building practical and scalable applications.
+
+🌱 I’m currently learning AWS and improving my problem-solving skills.
+
+🤝 I’m open to collaborating on interesting and challenging projects.
+
+📫 How to reach me:
+- hisham.syed0@gmail.com
